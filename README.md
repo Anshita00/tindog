@@ -1,6 +1,6 @@
 # tindog
 
-This is the app you've been waiting for. Are you disappointed by your dog's lack of love life? Do you wish nothing more than to find your dog's one true love?
+Are you disappointed by your dog's lack of love life? Do you wish nothing more than to find your dog's one true love?
 
 ### Then you've come to the right place!
 
