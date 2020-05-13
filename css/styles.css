@@ -1,0 +1,195 @@
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+/* Headings */
+
+.heading {
+    font-size: 3.5rem;
+    line-height: 1.5;
+    text-align: left;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Montserrat-Black', sans-serif;
+
+}
+
+.section-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+
+/* Navigation bar */
+
+.navbar {
+    padding-bottom: 4.5rem;
+    padding-left: 0px;
+    padding-right: 10px;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px 0;
+}
+
+.nav-link {
+    font-weight: 'Montserrat-Light';
+    font-size: 1.2rem;
+}
+
+/* Download buttons */
+
+.download-btn {
+    margin: 5% 3% 5% 0;
+}
+
+/* Title image */
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    top: 20px;
+    right: 40px;
+}
+
+@media (max-width: 1028px) {
+
+    #title {
+        text-align: center;
+    }
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+}
+
+/* features */
+
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+}
+
+.my-check-circle {
+    color: #ef8172;
+    font-size: 3rem;
+    padding-bottom: 15px;
+}
+
+.my-check-circle:hover {
+    color: #ff4c68;
+}
+
+
+.feature-description {
+    color: #8f8f8f;
+}
+
+.feature-title {
+    font-size: 1.5rem;
+}
+
+/* Testimonial section */
+
+#testimonials {
+    background-color: #e07b95;
+    color: #fff;
+}
+
+.testimonial-text {
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.testimonial-image {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#press {
+    background-color: #e07b95;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 10px 20px 50px;
+}
+
+/* Pricing selection */
+
+#pricing {
+    padding: 100px;
+}
+
+.plan-name {
+    font-size: 1.5rem;
+}
+
+.pricing-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.pricing-col {
+    padding: 3% 2%;
+}
+
+/* CTA */
+
+#cta {
+    background-color: #ff4c68;
+    padding: 7% 15%;
+    color: #fff;
+}
+
+.cta-text {
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+
+/* Footer */
+
+#footer {
+    padding: 7% 15%;
+}
+
+.fab, .fas {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 1rem;
+}
+.copyright {
+    color: #8f8f8f;
+}
